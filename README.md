@@ -23,7 +23,8 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/AI-Todo-App.git
 cd AI-Todo-App
-```bash
+```
+
 📋 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
