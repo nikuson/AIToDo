@@ -1,6 +1,6 @@
 # AI Todo App
 
-Welcome to the official repository of **AI Todo App**, an open-source and completely free task manager powered by Artificial Intelligence. This app helps you organize, prioritize, and complete your tasks efficiently, learning your habits over time and adapting to your personal preferences.
+Welcome to the official repository of **AI Todo App**, an open-source and completely free task manager powered by Artificial Intelligence. This app helps you organize, prioritize, and complete your tasks efficiently.
 
 ## 🎉 Key Features
 
