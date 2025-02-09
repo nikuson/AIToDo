@@ -1,4 +1,6 @@
-# AI Todo App
+# AI Todo Web App
+
+![image](https://github.com/user-attachments/assets/4515a8bd-b961-40d6-b12e-155955d9acfd)
 
 Welcome to the official repository of **AI Todo App**, an open-source and completely free task manager powered by Artificial Intelligence. This app helps you organize, prioritize, and complete your tasks efficiently.
 
