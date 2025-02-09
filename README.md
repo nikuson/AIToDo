@@ -4,12 +4,9 @@ Welcome to the official repository of **AI Todo App**, an open-source and comple
 
 ## 🎉 Key Features
 
-- **AI-powered Task Suggestions**: Get intelligent task suggestions based on your habits and routines.
-- **Smart Prioritization**: Let the app prioritize your to-dos based on urgency and importance.
-- **Voice Recognition**: Add and manage tasks using your voice. It's hands-free and efficient!
-- **Deadline Management**: Set deadlines and get timely reminders.
-- **Task Organization**: Categorize and organize tasks by priority, project, or custom tags.
-- **Personalized Recommendations**: The app learns from your interactions to suggest smarter ways to organize your tasks.
+- **Task Suggestions**: For every task you add, the app provides personalized suggestions to help you complete it more effectively.
+- **Easy Task Management**: Add and organize your tasks with ease.
+- **Free and Open-Source**: All features, including AI-powered suggestions, are completely free and open for anyone to use or contribute to.
 
 ## 💸 Free and Open-Source
 
@@ -27,3 +24,7 @@ Clone this repository to your local machine:
 git clone https://github.com/yourusername/AI-Todo-App.git
 cd AI-Todo-App
 
+📋 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Made with ❤️ by Nikuson
